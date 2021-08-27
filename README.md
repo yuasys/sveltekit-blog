@@ -1,3 +1,6 @@
+
+## 教材動画
+<a href="https://youtube.com/playlist?list=PLm_Qt4aKpfKjf77S8UD79Ockhwp_699Ms" target="_blank">Sveltekit Tutorial for Beginners<a>
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
